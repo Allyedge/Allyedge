@@ -1,7 +1,7 @@
 ## Hello, World!
 
 I'm Alim Arslan Kaya. I am 14 years old, and I love programming.
-I'm living in Germany and mostly do Android stuff.
+I live in Germany and mostly do Android stuff.
 
 #### Programming types I like
 Actually, I want to learm all kinds of programming. 
