@@ -15,6 +15,8 @@ But these are the ones I know good:
 - Html / Css
 - Backend Stuff
 
+I also like to do UI Design, I'm not really good at it, though. 🙂
+
 ## My plans
 Right now, I'm basically learning every kinds of programming.
 Since I have a lot of time at home because of COVID-19. 
