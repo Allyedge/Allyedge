@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, World!
 
-<!--
-**Allyedge/Allyedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alim Arslan Kaya. I am 14 years old, and I love programming.
+I'm living in Germany and mostly do Android stuff.
 
-Here are some ideas to get you started:
+#### Programming types I like
+Actually, I want to learm all kinds of programming. 
+But these are the ones I know good:
+- Android in General
+- Kotlin Stuff
+- C# / Java
+- Flutter
+- JavaScript & Beginner TypeScript
+- Html / Css
+- Backend Stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My plans
+Right now, I'm basically learning every kinds of programming.
+Since I have a lot of time at home because of COVID-19. 🙂
+
