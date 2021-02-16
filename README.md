@@ -5,15 +5,10 @@ I live in Germany and mostly do Android stuff.
 
 #### Programming types I like
 Actually, I want to learm all kinds of programming. 
-But these are the ones I know good:
+But these are the ones I know **good**:
 - Android in General
 - Kotlin Stuff
-- Python 
 - C# / Java
-- Flutter
-- JavaScript & Beginner TypeScript
-- Html / Css
-- Backend Stuff
 
 I also like to do UI Design, I'm not really good at it, though. 🙂
 
