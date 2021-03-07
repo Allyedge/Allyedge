@@ -17,5 +17,6 @@ I'm learning:
 I want to learn:
 - TypeScript
 
-##Wan't to talk? 
+
+### Wan't to talk? 
 Add me on Discord! My username: Allyedge#0402
