@@ -5,14 +5,17 @@ I live in Germany and mostly do JavaScript, React Native and Python stuff.
 
 ### Programming
 I know:
--JavaScript
--Html & Css
--React.js
--Kotlin
+- JavaScript
+- Html & Css
+- React.js
+- Kotlin
 
 I'm learning:
--React Native
--Python
+- React Native
+- Python
 
 I want to learn:
--TypeScript
+- TypeScript
+
+##Wan't to talk? 
+Add me on Discord! My username: Allyedge#0402
