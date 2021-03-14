@@ -1,6 +1,6 @@
 ## Hello, World!
 
-I'm Alim Arslan Kaya. I am 14 years old, and I love programming.
+I'm Alim Arslan Kaya.
 I live in Germany and mostly do JavaScript, React Native and Python stuff.
 
 ### Programming
