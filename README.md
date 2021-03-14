@@ -1,7 +1,7 @@
-## Hello, World!
+## Hey! I'm Alim Arslan Kaya 👋
 
-I'm Alim Arslan Kaya.
 I live in Germany and mostly do Fullstack Web, React Native and Python stuff.
+
 
 ### Programming
 
