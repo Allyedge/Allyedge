@@ -1,16 +1,15 @@
 ## Hello, World!
 
 I'm Alim Arslan Kaya.
-I live in Germany and mostly do JavaScript, React Native and Python stuff.
+I live in Germany and mostly do Fullstack Web, React Native and Python stuff.
 
 ### Programming
 
 I know:
-- JavaScript
+- JavaScript & TypeScript
 - Html & Css
 - React.js
 - Kotlin & Java
-- TypeScript
 - React Native
 - Python
 
