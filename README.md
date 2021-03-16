@@ -1,6 +1,6 @@
 ## Hey! I'm Alim Arslan Kaya 👋
 
-I live in Germany and mostly do Fullstack Web, React Native and Python stuff.
+I live in Germany and mostly do Fullstack Web Development.
 
 
 ### Programming
@@ -11,7 +11,6 @@ I know:
 - React.js
 - Kotlin & Java
 - React Native
-- Python
 
 Feel free to contact me on Discord if you want to. 
 Discord Name: Allyedge#0402
