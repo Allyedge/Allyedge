@@ -2,6 +2,7 @@
 
 I live in Germany and mostly do Fullstack Web Development.
 
+You can visit my [portfolio](https://allyedge.github.io)!
 
 ### Programming
 
