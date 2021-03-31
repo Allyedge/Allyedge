@@ -2,7 +2,7 @@
 
 I live in Germany and mostly do Fullstack Web Development.
 
-You can visit my [portfolio](https://allyedge.github.io)!
+I also published my portfolio. You can check it by visiting this link: https://allyedge.github.io
 
 ### Programming
 
@@ -11,7 +11,7 @@ I know:
 - Html & Css
 - React.js
 - Kotlin & Java
-- React Native
 
-Feel free to contact me on Discord if you want to. 
-Discord Name: Allyedge#0402
+### Contact
+[Discord](https://discordapp.com/users/675008503299047445)
+
