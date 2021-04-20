@@ -12,7 +12,6 @@ I know:
 - Angular
 - React
 - Node.js / SQL
-- Docker & Kubernetes
 
 ### Contact
 [Discord](https://discordapp.com/users/675008503299047445)
