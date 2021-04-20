@@ -9,8 +9,10 @@ I also published my portfolio. You can check it by visiting this link: https://a
 I know:
 - JavaScript & TypeScript
 - Html & Css
-- React.js
-- Kotlin & Java
+- Angular
+- React
+- Node.js / SQL
+- Docker & Kubernetes
 
 ### Contact
 [Discord](https://discordapp.com/users/675008503299047445)
