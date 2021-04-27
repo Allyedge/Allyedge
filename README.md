@@ -20,9 +20,9 @@ I know:
 I'm working on my own project `Reanvue.dev` right now. At the same time I'm trying out every technology I see :)
 
 ### My Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyedge&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyedge&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allyedge)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allyedge)]
 
 ### Contact
 [Discord](https://discordapp.com/users/675008503299047445)
