@@ -17,7 +17,7 @@ I know:
 - Node.js / SQL
 
 ### Working on
-I'm working on my own project `Reanvue.dev` right now. At the same time I'm trying out every technology I find. :)
+I'm working on my own project `Reanvue.dev` right now. At the same time I'm trying out every technology I find :)
 
 ### My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyedge&show_icons=true&theme=radical)
