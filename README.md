@@ -3,7 +3,7 @@
 I live in Germany and mostly do Fullstack Development.
 
 I primarily focus on React and TypeScript. I also know React and Angular.
-Of course I also do backend, I usually use TypeScript for it.
+Of course I also do backend, I usually use Node.js/TypeScript for it.
 
 I also published my portfolio. You can check it by visiting this link: https://allyedge.github.io
 
