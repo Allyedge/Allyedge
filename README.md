@@ -2,9 +2,7 @@
 
 I live in Germany and mostly do Fullstack Development.
 
-I primarily focus on React and TypeScript. I also know React and Angular.
-Of course I also do backend, I usually use Node.js/TypeScript for it.
-
+I primarily focus on Angular + Node.js and also do React, TypeScript and Flutter stuff.
 I also published my portfolio. You can check it by visiting this link: https://allyedge.github.io
 
 ### Programming
@@ -13,11 +11,11 @@ I know:
 - JavaScript & TypeScript
 - Html & Css
 - Angular, React 
-- React Native
+- Flutter
 - Node.js / SQL
 
 ### Working on
-Nothing right now. Just coding some little projects and learning stuff like React. 
+Nothing right now. Just coding some little projects and learning stuff. 
 
 ### My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyedge&show_icons=true&theme=radical)
