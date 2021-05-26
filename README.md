@@ -2,7 +2,7 @@
 
 I live in Germany and mostly do Fullstack Development.
 
-I primarily focus on Angular + Node.js and also do React, TypeScript and Flutter stuff.
+I primarily focus on Angular + Node.js and also do React, Vue and React Native stuff.
 I also published my portfolio. You can check it by visiting this link: https://allyedge.me
 
 ### Programming
@@ -10,8 +10,8 @@ I also published my portfolio. You can check it by visiting this link: https://a
 I know:
 - JavaScript & TypeScript
 - Html & Css
-- Angular, React 
-- Flutter
+- Angular, React, Vue
+- React Native
 - Node.js / SQL
 
 ### Working on
