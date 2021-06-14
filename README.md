@@ -1,6 +1,6 @@
 ## Hey! I'm Alim Arslan Kaya 👋
 
-I live in Germany and mostly do Fullstack Development. I primarily focus on Angular + Node.js and also do React, Vue and React Native stuff. 
+I live in Germany and mostly do Fullstack Development. I primarily focus on React + Node.js and also do Angular, Elixir and React Native stuff. 
 
 I also published my portfolio. You can check it out by visiting this link: https://allyedge.me
 
@@ -12,10 +12,11 @@ I know:
 - Angular, React, Vue 
 - React Native, Ionic
 - Node.js / SQL 
+- Elixir
 
 ### Working on
 
-Nothing right now. Just coding some little projects and learning stuff. 
+Reanvue
 
 ### My Stats
 
